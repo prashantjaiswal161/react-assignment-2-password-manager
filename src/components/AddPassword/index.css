@@ -1,0 +1,21 @@
+.password-manager-container {
+  background-color: #5763a5;
+  padding: 10px;
+  display: flex;
+  margin: 5px;
+}
+
+.form-container {
+  background-color: #454f84;
+  width: 50vw;
+}
+
+.password-manager-img {
+  width: 50vw;
+  height: 50vh;
+}
+.no-password {
+  background-color: #5763a5;
+  padding: 10px;
+  margin: 5px;
+}
